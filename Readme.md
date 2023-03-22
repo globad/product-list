@@ -14,4 +14,5 @@
 - эффект увеличения картинки при наведении курсора.
 
 https://codesandbox.io/s/product-list-qw9451
+
 Демо: https://qw9451.csb.app/
